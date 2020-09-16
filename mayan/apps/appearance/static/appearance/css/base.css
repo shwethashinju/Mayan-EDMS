@@ -634,3 +634,7 @@ a i {
 .panel-footer {
     color: #5252FF;
 }
+button.btn.btn-default {
+    color: white;
+    background: black;
+}
